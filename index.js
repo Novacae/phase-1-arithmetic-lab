@@ -12,9 +12,8 @@ const mod = num3 % num4;
 let max = (1,2,7,5,6,4,7,20);
 max.max();
 
-let random = Number;
-random(Math.random() * any) + 1
-
+const random=Math.floor(Math.random()*num5+1)
+let num5 = 10;
 
 
 
